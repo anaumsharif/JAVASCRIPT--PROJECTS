@@ -1,0 +1,28 @@
+/* universal changes  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+body{
+    /* font-family: "Gill Sans", sans-serif; */
+    /* font-family: cursive; */
+    /* font-family: Arial, sans-serif; */
+    /* background: linear-gradient(to right,#e66465,#9198e5); */
+    font-family: system-ui;
+    background: linear-gradient(to right,#614385,#7d83c3);
+
+}
+.container{
+    max-width: 500px;
+    margin: 200px auto;
+    background-color: rgba(251, 221, 178, 0.716);
+    padding: 20px; 
+    border-radius:8px;
+    box-shadow:0 2px 25px rgba(90,87 ,87, 0.3);
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
